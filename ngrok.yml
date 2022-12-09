@@ -1,0 +1,9 @@
+authtoken: 2FCZA5A1RhAgtUxuTgvMwxp04EU_5KZjWUYVqK5AQvJjGMVas
+
+tunnels:
+    ssh:
+        proto: tcp
+        addr: 8080
+    proxy:
+        proto: tcp
+        addr: 22
